@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 > **Note:** This project was created following the tutorial by **Ankita Kulkarni**.
 
+There is a running instance of this project at: https://ibuiltthis-sandy.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
